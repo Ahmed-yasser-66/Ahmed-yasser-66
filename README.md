@@ -15,7 +15,7 @@
 
 ### Connect with Me :
 
-<a href="[in/ahmed-yasser-689391250](https://www.linkedin.com/in/ahmed-yasser-689391250/)" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-yasser-689391250/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 
 ###
